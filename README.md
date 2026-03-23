@@ -203,23 +203,6 @@ The notebook is structured as a logical progression from raw data to business ac
 
 ---
 
-## 📚 References & Techniques
-
-- Kaplan, E. L. & Meier, P. (1958). *Nonparametric estimation from incomplete observations.* JASA.
-- Chen, T. & Guestrin, C. (2016). *XGBoost: A scalable tree boosting system.* KDD.
-- Lundberg, S. & Lee, S-I. (2017). *A unified approach to interpreting model predictions.* NeurIPS.
-- Chawla, N. V. et al. (2002). *SMOTE: Synthetic minority over-sampling technique.* JAIR.
-- Devriendt, F. et al. (2018). *A literature survey and experimental evaluation of the state-of-the-art in uplift modeling.* JDIQ.
-
----
-
-## 👤 Author
-
-**[Your Name]**  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/your-username) · [Email](mailto:you@email.com)
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
