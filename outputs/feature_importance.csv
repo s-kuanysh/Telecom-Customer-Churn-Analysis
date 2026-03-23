@@ -1,0 +1,31 @@
+feature,importance
+Contract_Month-to-month,0.3403745445322958
+Tenure,0.32173028779569945
+MonthlyCharges,0.32091041043246277
+ChargePerTenure,0.005743412277332875
+TotalCharges,0.004229787312514814
+TotalToMonthlyRatio,0.004192270127117341
+Age,0.001962837126272979
+Gender_Male,0.00016751721741927936
+PaymentMethod_Bank transfer,0.00013988152144743266
+Gender_Female,0.0001136569911463208
+PaymentMethod_Mailed check,8.062921916459185e-05
+AgeBand_26-35,6.516158262894098e-05
+Gender_Other,5.9884052825674266e-05
+TenureBand_13-24m,5.522411428329454e-05
+Contract_One year,5.321124418189656e-05
+MonthlyChargeBand_Q2,3.345066673743602e-05
+AgeBand_<=25,2.7063100825876922e-05
+PaymentMethod_Credit card,2.1280227007897888e-05
+Contract_Two year,1.534558807192524e-05
+AgeBand_36-50,1.2260042554874764e-05
+PaymentMethod_Electronic check,1.164753839364473e-05
+AgeBand_65+,2.3728961467100969e-07
+TenureBand_7-12m,1.878816332166433e-16
+TenureBand_49+m,0.0
+TenureBand_25-48m,0.0
+MonthlyChargeBand_Q1 (Low),0.0
+TenureBand_0-6m,0.0
+MonthlyChargeBand_Q3,0.0
+MonthlyChargeBand_Q4 (High),0.0
+AgeBand_51-65,0.0

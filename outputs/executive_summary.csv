@@ -1,0 +1,14 @@
+,value
+best_model,GradientBoosting
+roc_auc_test,0.8051
+pr_auc_test,0.6729
+brier_score,0.1584
+selected_threshold,0.35
+total_monthly_revenue_at_risk,626448.09
+total_annualised_revenue_at_risk,7517377.1
+confirmed_monthly_revenue_loss,628369.82
+best_target_fraction,0.2
+best_campaign_cost_per_cust,10.0
+best_retention_success_rate,0.3
+best_expected_net_value,47447.81
+best_roi_pct,118.6
