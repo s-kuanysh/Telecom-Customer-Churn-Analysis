@@ -50,39 +50,7 @@ telecom-churn-analysis/
 │   ├── feature_importance.csv
 │   ├── uplift_segments.csv
 │   └── executive_summary.csv
-├── requirements.txt
 └── README.md
-```
-
----
-
-## 📦 Installation
-
-```bash
-git clone https://github.com/your-username/telecom-churn-analysis.git
-cd telecom-churn-analysis
-
-pip install -r requirements.txt
-```
-
-Then open the notebook:
-```bash
-jupyter notebook telecom_churn_portfolio_annotated.ipynb
-```
-
-**requirements.txt:**
-```
-numpy>=1.24
-pandas>=2.0
-matplotlib>=3.7
-seaborn>=0.12
-scikit-learn>=1.3
-scipy>=1.10
-statsmodels>=0.14
-xgboost>=2.0          # optional but recommended
-shap>=0.42            # optional — for SHAP explainability
-imbalanced-learn>=0.11 # optional — for SMOTE comparison
-lifelines>=0.27       # optional — for survival analysis
 ```
 
 ---
